@@ -1,0 +1,4 @@
+Phương trình: 2.0x² + 3.0x + 3.0 = 0 Phương trình vô nghiệm
+Phương trình: 3.0x² + 3.0x + 3.0 = 0 Phương trình vô nghiệm
+Phương trình: 3.0x² + 3.0x + 3.0 = 0 Phương trình vô nghiệm
+Phương trình: 23.0x² + 33.0x + 3.0 = 0 Nghiệm x1 = -0.09754011176594554, x2 = -1.3372424969297065
